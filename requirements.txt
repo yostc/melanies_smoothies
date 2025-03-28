@@ -1,4 +1,3 @@
-name: app_environment
-channels:
+# requirements.txt
   - snowflake
   - streamlit=
